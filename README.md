@@ -63,7 +63,7 @@
 
 <div class="container">
   <div class="profile-header">
-    <img src="https://avatars.githubusercontent.com/yourusername" alt="Profile Picture">
+    <img src="https://avatars.githubusercontent.com/ficky230596" alt="Profile Picture">
     <h1>Your Name</h1>
     <p>@yourusername</p>
     <p>Software Developer</p>
