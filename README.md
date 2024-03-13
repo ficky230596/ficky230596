@@ -34,7 +34,7 @@
 
 <script>
   // Fetch data from GitHub API
-  fetch('https://api.github.com/users/yourusername')
+  fetch('https://api.github.com/users/ficky230596')
     .then(response => response.json())
     .then(data => {
       document.getElementById('repos').textContent = data.public_repos;
