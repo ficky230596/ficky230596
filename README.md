@@ -26,8 +26,8 @@
       <span id="followers">Loading...</span>
     </div>
     <div class="stat">
-      <span>Following</span>
-      <span id="following">Loading...</span>
+      <span>IG</span>
+      <span id="following">url : https://www.instagram.com/f_r_23/</span>
     </div>
   </div>
 </div>
